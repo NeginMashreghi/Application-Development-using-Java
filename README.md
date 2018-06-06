@@ -1,4 +1,4 @@
-# Application Development using Java J2SE AND JavaFX UI Controls
+# Application Development using Java J2SE and JavaFX UI Controls
 
 ## **Purpose:**
 
