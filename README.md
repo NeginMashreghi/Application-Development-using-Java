@@ -2,7 +2,7 @@
 
 ## **Purpose:**
 
-Using Java, develop a Travel Reservation System.
+Using **Java and JavaFX UI Controls**, develop a Travel Reservation System .
 The system should be able to provide the following:
 - Accept travel related information.
 - Display a ticket based on the travel reservation details.
